@@ -1,3 +1,6 @@
 streamlit
+langchain-groq
+langchain-core
+langgraph
 transformers
 torch
